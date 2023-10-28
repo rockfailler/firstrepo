@@ -5,3 +5,5 @@ git reset added
 second rest
 
 git 3rd reset
+test for fetch and pull
+git diff added
