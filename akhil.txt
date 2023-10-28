@@ -3,3 +3,5 @@ itest for fetch and pull
 git reset added
 
 second rest
+
+git 3rd reset
