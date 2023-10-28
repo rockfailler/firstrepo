@@ -1,3 +1,5 @@
 Hello Niranjan , thnaks for home tour . conbratutaion .
 itest for fetch and pull
 git reset added
+
+second rest
