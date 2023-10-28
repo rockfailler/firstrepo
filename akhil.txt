@@ -1,2 +1,3 @@
 Hello Niranjan , thnaks for home tour . conbratutaion .
-test for fetch and pull
+itest for fetch and pull
+git reset added
